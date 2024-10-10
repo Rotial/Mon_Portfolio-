@@ -5,7 +5,7 @@
 Apprendre par la pratique. 
 
 # Langages
-	## HTML
-	## CSS, BOOSTRAP
-	## JAVASCRIPT
+## HTML
+## CSS, BOOSTRAP
+## JAVASCRIPT
 	
